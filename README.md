@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [![MdMazahar's GitHub Banner](./asset/banner.png)](http://mdmazaharulislam.com/)
 =======
 [![Samun's GitHub Banner](./asset/banner.jpg)](http://mdmazaharulislam.com/)
