@@ -1,8 +1,6 @@
 
 [![MdMazahar's GitHub Banner](./asset/banner.png)](http://mdmazaharulislam.com/)
-=======
-[![Samun's GitHub Banner](./asset/banner.jpg)](http://mdmazaharulislam.com/)
->>>>>>> c8fc85ec8f3ac699ce14ab1fa65d039151593047
+
 
 
 
